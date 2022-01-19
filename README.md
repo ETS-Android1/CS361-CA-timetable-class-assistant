@@ -7,7 +7,7 @@ TimetableView based on https://github.com/tlaabs/TimetableView (optimized for th
 ## Features
 Timetable: Add, edit, delete subjects and schedules<br/>
 Works Schedule: Add, edit, delete subjects and schedules<br/>
-Alarm notification: NOT Implemented.
+Alarm notification: NOT Implemented.<br/>
 App preferences: NOT Implemented.
 
 ## Problems
